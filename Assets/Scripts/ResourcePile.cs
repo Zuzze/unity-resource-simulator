@@ -47,8 +47,6 @@ public class ResourcePile : Building
     {
         return $"Producing at the speed of {m_ProductionSpeed}/s";
     }
-    
-    
 
 
 }
